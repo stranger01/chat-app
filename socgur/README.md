@@ -1,4 +1,4 @@
-# Smack Chat
+# Society Guru
 
 A chat app for sending messages with channels. Using an API hosted in Heroku with a MongoDB database hosted in mLab.
 
