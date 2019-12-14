@@ -16,18 +16,7 @@ This is a simple chat app only with the purpose of learning. All the users can s
 + **Socket.IO** - Sockets library
 + **Shared Preferences** - Key-value pairs API 
 
+This app is available in 
+Aptodide
 
-## Not taken into account
-
-+ Testing
-
-
-## Screenshots
-
-<img src="screenshots/01_start.png" width="200">
-<img src="screenshots/02_login.png" width="200">
-<img src="screenshots/04_register_done.png" width="200">
-<img src="screenshots/05_add_channel.png" width="200">
-<img src="screenshots/06_channels.png" width="200">
-<img src="screenshots/07_messages.png" width="200">
-<img src="screenshots/08_messages_other.png" width="200">
+https://en.aptoide.com/store/moreappsco
