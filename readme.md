@@ -1,0 +1,1 @@
+#this is the copy of the app already deployed for gamers
